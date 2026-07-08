@@ -1,0 +1,14 @@
+DataTypes
+------------------
+1.Primitive DataTypes
+2.Object types
+3.Specila Type
+4.Advanced Types
+5.Function Types
+---------------------------------------------------------------------------------
+Primitive DataTypes:
+    Inbuilt DataTypes are Primitive DataTypes.
+    TypeScript has primitive types like number, string, boolean, null, undefined, bigint, and symbol.
+
+
+                        
