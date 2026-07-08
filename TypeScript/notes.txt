@@ -9,6 +9,13 @@ DataTypes
 Primitive DataTypes:
     Inbuilt DataTypes are Primitive DataTypes.
     TypeScript has primitive types like number, string, boolean, null, undefined, bigint, and symbol.
+    ----------------------------------------------------------------------
+
+**numberType**: The number type is used to store both integers and floating-point (decimal) values.
+eg: ->Stores integers and decimals.
+    ->Supports positive and negative numbers.
+    ->Unlike some languages, TypeScript has only one numeric type: number.
+    ->Special values like Infinity, -Infinity, and NaN are also of type number
 
 
                         
